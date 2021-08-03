@@ -1,3 +1,11 @@
+# Demo Pics
+[[/assests/1.png|ALT TEXT]]
+
+[[/assests/2.png|ALT TEXT]]
+
+[[/assests/3.png|ALT TEXT]]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
