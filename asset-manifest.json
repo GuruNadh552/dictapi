@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dictapi/static/css/main.b1bd1222.chunk.css",
+    "main.js": "/dictapi/static/js/main.e1f4d5bb.chunk.js",
+    "main.js.map": "/dictapi/static/js/main.e1f4d5bb.chunk.js.map",
+    "runtime-main.js": "/dictapi/static/js/runtime-main.747ca10b.js",
+    "runtime-main.js.map": "/dictapi/static/js/runtime-main.747ca10b.js.map",
+    "static/js/2.b2c548f8.chunk.js": "/dictapi/static/js/2.b2c548f8.chunk.js",
+    "static/js/2.b2c548f8.chunk.js.map": "/dictapi/static/js/2.b2c548f8.chunk.js.map",
+    "static/js/3.ea495cac.chunk.js": "/dictapi/static/js/3.ea495cac.chunk.js",
+    "static/js/3.ea495cac.chunk.js.map": "/dictapi/static/js/3.ea495cac.chunk.js.map",
+    "index.html": "/dictapi/index.html",
+    "static/css/main.b1bd1222.chunk.css.map": "/dictapi/static/css/main.b1bd1222.chunk.css.map",
+    "static/js/2.b2c548f8.chunk.js.LICENSE.txt": "/dictapi/static/js/2.b2c548f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.747ca10b.js",
+    "static/js/2.b2c548f8.chunk.js",
+    "static/css/main.b1bd1222.chunk.css",
+    "static/js/main.e1f4d5bb.chunk.js"
+  ]
+}
