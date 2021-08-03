@@ -1,6 +1,6 @@
 # Demo Pics
 
-![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/1.pngpng)
+![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/1.png)
 
 ![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/2.png)
 
