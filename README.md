@@ -1,9 +1,10 @@
 # Demo Pics
-[[/assests/1.png|ALT TEXT]]
 
-[[/assests/2.png|ALT TEXT]]
+[[https://github.com/GuruNadh552/dictapi/blob/master/assests/1.png]]
 
-[[/assests/3.png|ALT TEXT]]
+[[https://github.com/GuruNadh552/dictapi/blob/master/assests/2.png]]
+
+[[https://github.com/GuruNadh552/dictapi/blob/master/assests/3.png]]
 
 
 # Getting Started with Create React App
