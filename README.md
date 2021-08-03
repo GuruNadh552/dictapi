@@ -1,10 +1,11 @@
 # Demo Pics
 
-[[https://github.com/GuruNadh552/dictapi/blob/master/assests/1.png]]
+![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/1.pngpng)
 
-[[https://github.com/GuruNadh552/dictapi/blob/master/assests/2.png]]
+![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/2.png)
 
-[[https://github.com/GuruNadh552/dictapi/blob/master/assests/3.png]]
+![Alternate TEXT FOR IMAGE](https://github.com/GuruNadh552/dictapi/blob/master/assests/3.png)
+
 
 
 # Getting Started with Create React App
